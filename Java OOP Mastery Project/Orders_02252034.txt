@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+8,James,OH,6.25,Tile,666.00,3.50,4.15,2331.00,2763.90,318.43,5413.33

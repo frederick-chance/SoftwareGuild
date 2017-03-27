@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+10,George,MI,5.75,Wood,5463987.00,5.15,4.75,28139533.05,25953938.25,3110374.60,57203845.90

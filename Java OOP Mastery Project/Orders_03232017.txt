@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+14,Chris Andrews,IN,6.00,Laminate,457.00,1.75,2.10,799.75,959.70,105.57,1865.02

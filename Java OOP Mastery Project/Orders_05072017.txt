@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+15,Trevor Beal,MI,5.75,Carpet,3049.00,2.25,2.10,6860.25,6402.90,762.63,14025.78

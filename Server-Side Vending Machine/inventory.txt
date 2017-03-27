@@ -1,0 +1,9 @@
+2.50::3::Domination::World Domination
+3.25::5::Feeling::Feelings
+0.50::0::Apocalypse::The End Times
+1.25::0::Tenderness::A Little Tenderness
+0.75::0::Disappointment::Disappointment
+0.50::0::Utopia::Utopia, By Whatever Means
+1.50::0::Trait::Career Limiting Personality Trait
+1.75::1::Revenge::Revenge, Served Cold
+2.25::1::Deeds::Dirty Deeds Done Dirt Cheap

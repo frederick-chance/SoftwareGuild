@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+9,Frederick James Chance,MI,5.75,Wood,400.00,5.15,4.75,2060.00,1900.00,227.70,4187.70

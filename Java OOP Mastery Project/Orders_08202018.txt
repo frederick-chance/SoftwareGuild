@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+16,Britt Dogg,MI,5.75,Wood,575.00,5.15,4.75,2961.25,2731.25,327.32,6019.82

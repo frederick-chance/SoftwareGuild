@@ -1,0 +1,10 @@
+[2017-02-27 ADDORDER] 12 | 2017-02-27 | Pat Toner | OH | Laminate | 1431.72
+[2017-02-27 ADDORDER] 13 | 2017-02-28 | Bob Ross | PA | Wood | 3381.84
+[2017-02-27 ADDORDER] 14 | 2017-03-23 | Chris Andrews | IN | Laminate | 1865.02
+[2017-02-27 ADDORDER] 15 | 2017-05-07 | Trevor Beal | MI | Carpet | 14025.78
+[2017-02-27 REMOVEORDER] 2 | 2017-02-26 | Fred Chance | MI | Tile | 1213.48
+[2017-02-27 ADDORDER] 16 | 2018-08-19 | Britt Dog | MI | Laminate | 2341.04
+[2017-02-27 UPDATEORDER] (removed) 16 | 2018-08-19 | Britt Dog | MI | Laminate | 2341.04
+UPDATEORDER] (added) 16 | 2018-08-20 | Britt Dogg | MI | Wood | 6019.82
+[2017-02-27 REMOVEORDER] 16 | 2018-08-20 | Britt Dogg | MI | Wood | 6019.82
+[2017-02-27 ADDORDER] 17 | 2017-02-27 | Frederick The Chance | PA | Carpet | -5730.23

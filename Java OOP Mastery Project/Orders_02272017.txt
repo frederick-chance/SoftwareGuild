@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+3,Louise Belcher,PA,6.75,Carpet,200.00,2.25,2.10,450.00,420.00,58.73,928.73
+12,Pat Toner,OH,6.25,Laminate,350.00,1.75,2.10,612.50,735.00,84.22,1431.72
+17,Frederick The Chance,PA,6.75,Carpet,-1234.00,2.25,2.10,-2776.50,-2591.40,-362.33,-5730.23
